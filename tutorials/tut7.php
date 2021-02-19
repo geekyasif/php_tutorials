@@ -1,0 +1,5 @@
+<?php
+// arrays in php
+
+
+?>

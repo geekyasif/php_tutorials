@@ -1,0 +1,6 @@
+<?php
+// functions in php
+
+
+
+?>
